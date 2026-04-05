@@ -27,7 +27,8 @@ The dashboard is built using salary data that includes:
 - Or compatible spreadsheet software
 
 ## Analysis Insights
-[Add specific insights from your analysis here]
+<img width="1495" height="609" alt="image" src="https://github.com/user-attachments/assets/30544e8b-3f23-4259-b916-56da03ff8f13" />
+
 
 ## Contributing
 Feel free to contribute by suggesting improvements or additional features.
